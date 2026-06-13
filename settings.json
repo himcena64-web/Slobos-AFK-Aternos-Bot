@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Fakestrengh.aternos.me",
-    "port":  35482,
+    "ip": "Fakestealsmp.aternos.me",
+    "port":  22323,
     "version": "1.21.11",
     "try-creative": false
   },
